@@ -1,0 +1,18 @@
+{
+  "toolbar": {
+    "brand": "Rick and Morty Explorer"
+  },
+  "characters": {
+    "title": "Characters",
+    "status": "Status",
+    "gender": "Gender",
+    "origin": "Origin",
+    "location": "Last known location",
+    "viewDetails": "View Character Details",
+    "share": "Share Character"
+  },
+  "footer": {
+    "copyright": "Copyright © 2026 Rick and Morty Explorer. All rights reserved.",
+    "developedBy": "Developed by"
+  }
+}
